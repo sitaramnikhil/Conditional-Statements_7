@@ -5,8 +5,10 @@ Comments: This C# Console application code demonstrates the use of
 conditional statements after getting input from users
 */
 
+// Testing Git Push on 20th February 2024
 using System;
 // Ask the user for input
+
 Console.WriteLine("Please enter a Sales Amount ...");
 /*
     Use the try catch block to validate user input.
